@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,KAAK,CAAC;EACJ,WAAW,CAAA,qBAAC;EACZ,gBAAgB,CAAA,sBAAC;EACjB,mBAAmB,CAAA,QAAC;EACpB,wBAAwB,CAAA,QAAC;EAEzB,YAAY,CAAA,QAAC;EACb,iBAAiB,CAAA,QAAC;EAClB,iBAAiB,CAAA,yBAAC;EAElB,yBAAyB,CAAA,QAAC;EAE1B,kBAAkB,CAAA,QAAC;EACnB,mBAAmB,CAAA,QAAC;EACpB,kBAAkB,CAAA,QAAC;EAEnB,gBAAgB,CAAA,QAAC;EACjB,eAAe,CAAA,QAAC;EAChB,oBAAoB,CAAA,QAAC;EACrB,oBAAoB,CAAA,yBAAC;EACrB,uBAAuB,CAAA,QAAC;EACxB,8BAA8B,CAAA,QAAC;EAE/B,mBAAmB,CAAA,QAAC;EAEpB,iBAAiB,CAAA,MAAC;EAClB,wBAAwB,CAAA,6BAAC;CAC1B;;AC3BD,AAAA,gBAAgB,CAAC;EACf,QAAQ,EAAE,QAAQ;EAClB,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,GAAG;EACX,MAAM,EAAE,IAAI;EACZ,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,WAAW,EAAE,MAAM;EACnB,SAAS,EAAE,WAAW;EACtB,IAAI,EAAE,aAAa;EACnB,QAAQ,EAAE,MAAM;EAChB,OAAO,EAAE,CAAC;EACV,cAAc,EAAE,CAAC;CAClB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/utils/_variables.scss",
+        "../sass/utils/_visually-hidden.scss",
+        "../sass/base/_common.scss",
+        "../sass/base/_container.scss",
+        "../sass/base/_section.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
